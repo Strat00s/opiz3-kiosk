@@ -1,4 +1,4 @@
-A very simple combination of C++ and Python script to control the backlight on Waveshare display connected to Orange Pi Zero 3 via software PWM.
+A very simple combination of C++ and Python script to control the backlight on [Waveshare 70H-1024600](https://www.waveshare.com/wiki/70H-1024600) display connected to Orange Pi Zero 3 via software PWM.
 
 ### Requirements
 `wiringPi`: For Orange Pi, install [wiringOP](https://github.com/orangepi-xunlong/wiringOP).
