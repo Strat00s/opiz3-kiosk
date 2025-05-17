@@ -51,6 +51,8 @@ int main () {
         return 1;
     }
 
+    setBrightness(100);
+
     // read until EXIT
     while (true) {
         // open pipe
